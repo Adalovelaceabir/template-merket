@@ -63,3 +63,6 @@ app.get('*', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
+
+const templates = require('./data/templates.json');
+const categories = require('./data/categories.json');
