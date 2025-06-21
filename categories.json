@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": "business",
+      "name": "Business",
+      "icon": "briefcase",
+      "count": 12
+    },
+    {
+      "id": "ecommerce",
+      "name": "E-commerce",
+      "icon": "shopping-cart",
+      "count": 8
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "icon": "camera",
+      "count": 15
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "icon": "book-open",
+      "count": 10
+    }
+  ]
+}
