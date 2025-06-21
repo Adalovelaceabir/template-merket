@@ -1,0 +1,31 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Business Pro",
+      "description": "Professional business template suitable for corporate websites",
+      "price": 49.99,
+      "imageUrl": "/images/business-pro.jpg",
+      "category": "business",
+      "features": ["Responsive", "SEO Optimized", "5 Color Schemes"]
+    },
+    {
+      "id": 2,
+      "name": "E-Shop",
+      "description": "Modern e-commerce template with product showcase",
+      "price": 59.99,
+      "imageUrl": "/images/eshop.jpg",
+      "category": "ecommerce",
+      "features": ["Product Filter", "Shopping Cart", "Checkout Page"]
+    },
+    {
+      "id": 3,
+      "name": "Creative Portfolio",
+      "description": "Elegant portfolio template for designers",
+      "price": 39.99,
+      "imageUrl": "/images/portfolio.jpg",
+      "category": "portfolio",
+      "features": ["Gallery Layout", "Client Testimonials", "Contact Form"]
+    }
+  ]
+    }
